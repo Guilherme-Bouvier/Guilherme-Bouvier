@@ -1,6 +1,6 @@
 # 👋 Olá, sou Guilherme Bouvier
 
-## 🧠 Desenvolvedor Backend em evolução contínua | Criador de sistemas inteligentes
+## Em evolução contínua | Criador de sistemas
 
 Sou um desenvolvedor focado em **Backend e desenvolvimento de aplicações completas**, sempre buscando transformar ideias em soluções funcionais, organizadas e escaláveis.
 
