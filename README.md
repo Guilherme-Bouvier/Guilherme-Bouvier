@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor focado em **Backend e desenvolvimento de aplicações completas**, sempre buscando transformar ideias em soluções funcionais, organizadas e escaláveis.
 
-Tenho interesse em:
+## Tenho interesse em:
 - Desenvolvimento de sistemas
 - Arquitetura de software
 - Inteligência Artificial aplicada
@@ -72,7 +72,6 @@ Tenho foco em:
 - Visual Studio Code
 - Git
 - GitHub
-- Linux
 - Ambiente virtual Python
 - PyInstaller
 
@@ -81,6 +80,57 @@ Tenho foco em:
 
 # 🚀 Projetos em Destaque
 
+
+## 📝 DevBlog - Plataforma de Conteúdo
+
+Blog desenvolvido utilizando Django.
+
+Funcionalidades:
+
+✅ Sistema baseado em templates  
+✅ Organização por aplicações  
+✅ Banco de dados integrado  
+✅ Área de contato  
+✅ Cards de artigos  
+✅ Banner dinâmico  
+✅ Layout responsivo com Bootstrap  
+
+
+Tecnologias:
+
+- Python
+- Django
+- SQLite/MySQL
+- HTML
+- CSS
+- Bootstrap
+
+
+---
+
+## 🌦️ Weather App - Aplicação Web com API
+
+Aplicação web desenvolvida utilizando Flask consumindo API externa de previsão do tempo.
+
+Funcionalidades:
+
+✅ Consulta por cidade  
+✅ Consumo de API REST  
+✅ Tratamento de respostas JSON  
+✅ Interface responsiva com Bootstrap  
+✅ Histórico de pesquisas  
+
+
+Tecnologias:
+
+- Python
+- Flask
+- Requests
+- HTML
+- Bootstrap
+
+
+---
 
 ## 💰 DriveCash - Sistema de Gestão Financeira para Autônomos
 
@@ -110,56 +160,6 @@ Tecnologias:
 
 ---
 
-## 🌦️ Weather App - Aplicação Web com API
-
-Aplicação web desenvolvida utilizando Flask consumindo API externa de previsão do tempo.
-
-Funcionalidades:
-
-✅ Consulta por cidade  
-✅ Consumo de API REST  
-✅ Tratamento de respostas JSON  
-✅ Interface responsiva com Bootstrap  
-✅ Histórico de pesquisas  
-
-
-Tecnologias:
-
-- Python
-- Flask
-- Requests
-- HTML
-- Bootstrap
-
-
----
-
-## 📝 DevBlog - Plataforma de Conteúdo
-
-Blog desenvolvido utilizando Django.
-
-Funcionalidades:
-
-✅ Sistema baseado em templates  
-✅ Organização por aplicações  
-✅ Banco de dados integrado  
-✅ Área de contato  
-✅ Cards de artigos  
-✅ Banner dinâmico  
-✅ Layout responsivo com Bootstrap  
-
-
-Tecnologias:
-
-- Python
-- Django
-- SQLite/MySQL
-- HTML
-- CSS
-- Bootstrap
-
-
----
 
 ## 📋 Gerenciador de Tarefas (Python)
 
@@ -232,29 +232,10 @@ Implementações:
 
 ---
 
-# 📈 Minha Jornada
-
-
-Iniciante
-│
-│
-├── Lógica de Programação
-│
-├── Python
-│
-├── Flask + APIs
-│
-├── Banco de Dados
-│
-├── Django
-│
-├── Sistemas Desktop
-│
-● Atual
-│
-└── Backend Profissional + IA
-
-
----
+```
+Lógica      Python      Flask      Banco      Django      Desktop      Backend + IA      Docker      Cloud
+  ●──────────●──────────●──────────●──────────●──────────●───────────────────◉──────────────○──────────○
+                                                                            Atual
+```
 
 ⭐ Sempre aprendendo, construindo e evoluindo.
