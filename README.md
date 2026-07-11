@@ -1,241 +1,72 @@
 # 👋 Olá, sou Guilherme Bouvier
 
-## Em evolução contínua | Criador de sistemas
+## Desenvolvedor Backend Python em evolução contínua
 
-Sou um desenvolvedor focado em **Backend e desenvolvimento de aplicações completas**, sempre buscando transformar ideias em soluções funcionais, organizadas e escaláveis.
+Focado em **Backend, desenvolvimento de aplicações completas e soluções escaláveis**, transformando ideias em sistemas funcionais e organizados.
 
-## Tenho interesse em:
-- Desenvolvimento de sistemas
-- Arquitetura de software
-- Inteligência Artificial aplicada
-- Automação de processos
-- Análise e simulação de dados
+## 🚀 Interesses
 
-Minha jornada é baseada em aprendizado constante, criando projetos reais para evoluir minhas habilidades técnicas e minha capacidade de resolver problemas.
+* Desenvolvimento de sistemas
+* APIs e arquitetura de software
+* Inteligência Artificial aplicada
+* Automação de processos
+* Análise e simulação de dados
 
 ---
 
 # 🧭 Sobre mim
 
-Atualmente estudo e desenvolvo aplicações utilizando principalmente **Python**, explorando desde sistemas desktop até aplicações web completas.
+Atualmente estudo e desenvolvo aplicações com **Python**, criando desde sistemas desktop até aplicações web completas.
 
-Tenho foco em:
+Tenho experiência e interesse em:
 
-🔹 Desenvolvimento Backend  
-🔹 Criação de APIs  
-🔹 Sistemas CRUD completos  
-🔹 Integração com banco de dados  
-🔹 Automação e inteligência artificial  
-🔹 Organização e arquitetura de projetos  
+* Desenvolvimento Backend
+* Criação de APIs
+* Sistemas CRUD
+* Banco de dados
+* Automação
+* Organização e arquitetura de projetos
 
 ---
 
-# ⚙️ Stack Tecnológica
+# ⚙️ Tecnologias
 
-## 💻 Linguagens
+### 💻 Linguagens
 
 🐍 Python
 
-- Lógica de programação
-- Estruturas de dados
-- Programação orientada a objetos
-- Manipulação de arquivos
-- JSON
-- Consumo de APIs
-- Automação de tarefas
+### 🌐 Web
 
+* Flask
+* Django
+* HTML5
+* CSS3
+* Bootstrap
+* Jinja2
 
-## 🌐 Desenvolvimento Web
+### 🗄️ Banco de Dados
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- Jinja2
-- Flask
-- Django
-- Desenvolvimento de páginas dinâmicas
-- Templates e componentes reutilizáveis
+* SQL
+* MySQL
+* SQLite
+* SQLAlchemy
 
+### 🛠️ Ferramentas
 
-## 🗄️ Banco de Dados
-
-- SQL
-- MySQL
-- SQLite
-- SQLAlchemy ORM
-- Modelagem de dados
-- Operações CRUD
-
-
-## 🛠️ Ferramentas
-
-- Visual Studio Code
-- Git
-- GitHub
-- Ambiente virtual Python
-- PyInstaller
-
+* Git e GitHub
+* VS Code
+* Ambientes virtuais Python
+* PyInstaller
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🎯 Objetivos
 
-
-## 📝 DevBlog - Plataforma de Conteúdo
-
-Blog desenvolvido utilizando Django.
-
-Funcionalidades:
-
-✅ Sistema baseado em templates  
-✅ Organização por aplicações  
-✅ Banco de dados integrado  
-✅ Área de contato  
-✅ Cards de artigos  
-✅ Banner dinâmico  
-✅ Layout responsivo com Bootstrap  
-
-
-Tecnologias:
-
-- Python
-- Django
-- SQLite/MySQL
-- HTML
-- CSS
-- Bootstrap
-
+* Me tornar Desenvolvedor Backend profissional
+* Criar sistemas completos e escaláveis
+* Trabalhar com Python, APIs e Inteligência Artificial
+* Desenvolver soluções para problemas reais
 
 ---
-
-## 🌦️ Weather App - Aplicação Web com API
-
-Aplicação web desenvolvida utilizando Flask consumindo API externa de previsão do tempo.
-
-Funcionalidades:
-
-✅ Consulta por cidade  
-✅ Consumo de API REST  
-✅ Tratamento de respostas JSON  
-✅ Interface responsiva com Bootstrap  
-✅ Histórico de pesquisas  
-
-
-Tecnologias:
-
-- Python
-- Flask
-- Requests
-- HTML
-- Bootstrap
-
-
----
-
-## 💰 DriveCash - Sistema de Gestão Financeira para Autônomos
-
-Sistema ERP desenvolvido em Python com foco em profissionais que trabalham utilizando veículos.
-
-Objetivo:
-Criar uma ferramenta para controle financeiro, manutenção e análise de desempenho.
-
-Funcionalidades planejadas:
-
-✅ Controle de receitas e despesas  
-✅ Controle de manutenção do veículo  
-✅ Registro por quilometragem  
-✅ Relatórios financeiros  
-✅ Dashboard com indicadores  
-✅ Organização modular  
-✅ Possível integração com IA para análises inteligentes  
-
-
-Tecnologias:
-
-- Python
-- CustomTkinter
-- SQLite
-- Arquitetura modular
-
-
----
-
-
-## 📋 Gerenciador de Tarefas (Python)
-
-Primeiro projeto estruturado utilizando Python.
-
-Características:
-
-✅ CRUD completo  
-✅ Persistência em JSON  
-✅ Organização modular  
-✅ Tratamento de erros  
-✅ Base para evolução futura
-
-
----
-
-## ⚓ Batalha Naval (Portugol)
-
-Projeto focado no desenvolvimento da lógica de programação.
-
-Implementações:
-
-✅ Matrizes  
-✅ Controle de estado  
-✅ Sistema de ataque  
-✅ Validação de jogadas  
-✅ Menu interativo  
-
-
----
-
-# 📚 Atualmente estudando
-
-🚀 Desenvolvimento Backend avançado
-
-- APIs REST
-- Segurança de aplicações
-- Arquitetura de sistemas
-- Django avançado
-- Banco de dados
-
-
-🤖 Inteligência Artificial
-
-- Integração de IA em aplicações
-- Automação inteligente
-- Análise de dados
-
-
-📱 Desenvolvimento Full Stack
-
-- Backend
-- Frontend
-- Banco de dados
-- Deploy
-
-
----
-
-# 🎯 Objetivos Profissionais
-
-🔸 Me tornar Desenvolvedor Backend profissional
-
-🔸 Criar sistemas completos e escaláveis
-
-🔸 Trabalhar com Python, APIs e Inteligência Artificial
-
-🔸 Desenvolver soluções reais para problemas do cotidiano
-
-
----
-
-```
-Lógica      Python      Flask      Banco      Django      Desktop      Backend + IA      Docker      Cloud
-  ●──────────●──────────●──────────●──────────●──────────●───────────────────◉──────────────○──────────○
-                                                                            Atual
-```
 
 ⭐ Sempre aprendendo, construindo e evoluindo.
