@@ -1,4 +1,9 @@
-# 👋 Olá, sou Guilherme Bouvier
+<div align="center">
+  <a href="SEU_LINK_AQUI"><img src="URL_DA_SUA_IMAGEM_DE_CAPA" width="100%" alt="Capa do Perfil">
+  </a>
+</div>
+
+#  Olá Mundo!, sou Guilherme Bouvier
 
 ## Desenvolvedor Backend Python em evolução contínua
 
