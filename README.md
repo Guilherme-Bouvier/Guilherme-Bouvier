@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="SEU_LINK_AQUI"><img src="URL_DA_SUA_IMAGEM_DE_CAPA" width="100%" alt="Capa do Perfil">
+  <a href="https://raw.githubusercontent.com/Guilherme-Bouvier/Guilherme-Bouvier/refs/heads/main/imagem%20capa/transferir.jfif"><img src="URL_DA_SUA_IMAGEM_DE_CAPA" width="100%" alt="Capa do Perfil">
   </a>
 </div>
 
