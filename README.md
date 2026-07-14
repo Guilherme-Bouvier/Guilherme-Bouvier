@@ -8,7 +8,7 @@
 
 #  Olá Mundo!, sou Guilherme Bouvier
 
-## Desenvolvedor Backend Python em evolução contínua
+## Desenvolvedor em evolução contínua
 
 Focado em **Backend, desenvolvimento de aplicações completas e soluções escaláveis**, transformando ideias em sistemas funcionais e organizados.
 
@@ -19,21 +19,6 @@ Focado em **Backend, desenvolvimento de aplicações completas e soluções esca
 * Inteligência Artificial aplicada
 * Automação de processos
 * Análise e simulação de dados
-
----
-
-# 🧭 Sobre mim
-
-Atualmente estudo e desenvolvo aplicações com **Python**, criando desde sistemas desktop até aplicações web completas.
-
-Tenho experiência e interesse em:
-
-* Desenvolvimento Backend
-* Criação de APIs
-* Sistemas CRUD
-* Banco de dados
-* Automação
-* Organização e arquitetura de projetos
 
 ---
 
